@@ -1,29 +1,6 @@
-# vue-buy
+# VUE做的一个购物车
 
-## Project setup
-```
-npm install
-```
+一个简单的购物车逻辑
+知识点：
+组件传值、mok数据拦截与请求处理
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
